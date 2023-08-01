@@ -1,0 +1,42 @@
+Objetivo do programa 
+-- SIMULAR UM SGBD BASICO 
+-- Para estudar o basico de SQL de forma neutra
+
+Ponto 1: 
+  [ OK ] Cria um Banco de dados 
+  [ OK  ] Executar Querys 
+  [ ok ] Entender suas Limitacoes e documentar  
+     - Não retorna quais campos foram modificados 
+     - Não detalha com exatidão o que foi modificados
+
+Ponto 2: 
+  [OK] Criar interface grafica basica
+  [OK] Criação da pagina Inicial
+
+
+https://www.db4free.net/phpMyAdmin/index.php?route=/table/sql&db=teste_9&table=Test02
+https://2.bp.blogspot.com/-UVTjisMXslM/VtXoBuDC8dI/AAAAAAAAAB8/vgN2QovfCfE/s1600/sql1.jpg
+https://www.usandopy.com/pt/artigo/como-adicionar-uma-barra-de-menus-em-tkinter/#:~:text=Como%20adicionar%20uma%20barra%20de%20menus%20em%20Tkinter,menu.add_command%20%28label%20%3D%20%27Arquivo%27%29%20janela.config%20%28menu%20%3D%20menu%29
+https://receitasdecodigo.com.br/banco-de-dados/exibindo-informacoes-do-banco-de-dados,-tabelas-e-colunas-do-mysql#:~:text=Exibindo%20informa%C3%A7%C3%B5es%20do%20banco%20de%20dados%2C%20tabelas%20e,5%20Detalhar%20os%20dados%20de%20uma%20tabela%20
+
+=== Lixo ===
+print(fileList[indice_procura][1])
+#cursor.execute("show COLUMNS from"+[indice_procura][1])
+Result02 = str(cursor.fetchall())
+# Test012;
+print(Result02)
+
+db4free.net,usuario_0_poli,teste_9,9090ola1
+
+===== CONFIG PADRAO 
+
+DATABASE_SET :
+
+END
+
+DATABASE_SET :
+db4free.net,usuario_0_poli,teste_9,9090ola1
+END
+USER :
+Felipe
+END
